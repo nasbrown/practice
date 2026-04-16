@@ -2,7 +2,7 @@
  <?php
  $pageTitle = 'Our Menu';
  $headerImg = 'images/pexels-fwstudio-172289.jpg';
- include 'inc/header.php'; 
+  include 'inc/header.inc.php';
  
  ?>
 
@@ -41,4 +41,4 @@
     <li><strong>Honey Lavender Panna Cotta</strong> - A creamy Italian dessert infused with organic lavender and sweetened with local honey.</li>
 </ul>
 
-<?php include 'inc/footer.php'; ?>
+<?php include 'inc/footer.inc.php'; ?> 

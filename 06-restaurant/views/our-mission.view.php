@@ -1,9 +1,6 @@
 <?php 
-  $headerImg = 'images/pexels-engin-akyurt-1435904.jpg';
-  $pageTitle = 'Our mission';
   include 'inc/header.inc.php';
 ?>
-    <h1>Our mission</h1>
     <p>
       At Culinary Cove, our core mission is to offer a sanctuary for 
       those who seek exceptional flavors and culinary experiences. 

@@ -1,12 +1,6 @@
-<!-- Should be turned into a header image -->
  <?php
- $pageTitle = 'Our Menu';
- $headerImg = 'images/pexels-fwstudio-172289.jpg';
   include 'inc/header.inc.php';
- 
  ?>
-
-<h1>Our menu</h1>
   
 <h2>Starters</h2>
 <ul>
